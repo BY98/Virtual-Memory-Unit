@@ -1,5 +1,5 @@
 # Virtual-Memory-Unit
-The program reads from a file containing logical addresses and converts these logical address to its corresponding physical address using a TLB and Page Table. Also, the program will output the value of the byte stored at the translated physical address. The program outputs a CSV file that has three columns:
+The program reads from a file containing logical addresses and converts these logical address to their corresponding physical address using a TLB and Page Table. Also, the program will output the value of the byte stored at the translated physical address. The program outputs a CSV file that has three columns:
 
 1. The logical Address being translated read from address.txt
 2. The corresponding physical address (what the program translates the logical address to)
